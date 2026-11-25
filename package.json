@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PowerLaunch/n8n-nodes-apier.git"
+    "url": "git+https://github.com/apier-no/n8n-nodes-apier.git"
   },
   "engines": {
     "node": ">=20.15"
